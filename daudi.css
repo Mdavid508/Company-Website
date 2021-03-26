@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: rgb(31, 61, 61);
+    
+}
+h2{
+    color: rgb(167, 202, 128);
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+    background-color: rgb(116, 116, 133);
+}
+ul{
+    color: bisque;
+    text-align: justify;
+    
+}
+.Img {
+    text-align: left;
+
+
+
+}
+footer{
+    color: coral;
+}

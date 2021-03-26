@@ -1,0 +1,10 @@
+h1{
+     color:rosybrown;
+     font-style: oblique;
+     text-align: center;
+     font-weight: 700;
+}
+body{
+     background-image: url(PcPhoto.jpg);
+     background-size: cover;
+}
