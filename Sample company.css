@@ -34,7 +34,7 @@ nav ul li a {
 }
 
 body {
-    background-color: lightslategray;
+    background-color: red;
     background-image: url("Images/unsplash.jpg");
     background-position: center;
     background-size: cover;
